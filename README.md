@@ -1,16 +1,50 @@
-# React + Vite
+**📋 Task Manager React App**
+A simple and efficient Task Manager application built using React and Vite. This app helps users organize daily tasks with an interactive and responsive interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**🚀 Features**
+* Add new tasks
+* Delete tasks
+* Mark tasks as completed
+* Fast UI updates with React state
+* Responsive design for better usability
 
-Currently, two official plugins are available:
+**🛠️ Tech Stack**
+* Frontend: React (Functional Components, Hooks)
+* Build Tool: Vite
+* Styling: CSS
+* Linting: ESLint
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**📂 Project Structure**
+Task_Manager-React-App/
+│── public/
+│── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
 
-## React Compiler
+**⚙️ Installation & Setup**
+1️⃣ Clone the repository
+git clone https://github.com/Varsh-raj/Task_Manager-React-App.git
+cd Task_Manager-React-App
+2️⃣ Install dependencies
+npm install
+3️⃣ Run the app
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**📚 What I Learned**
+* Building UI using React components
+* Managing state using useState hook
+* Handling user input and events
+* Structuring a frontend project with Vite
+* Writing cleaner and modular code
 
-## Expanding the ESLint configuration
+**🔮 Future Improvements**
+✏️ Edit task functionality
+💾 Save tasks using Local Storage / Backend
+🔐 User authentication
+🎯 Task prioritization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**🙌 Acknowledgement**
+Developed as part of my practical learning in React, this project demonstrates my ability to build interactive user interfaces and apply core frontend development concepts effectively.

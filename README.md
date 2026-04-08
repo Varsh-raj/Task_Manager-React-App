@@ -28,8 +28,10 @@ Task_Manager-React-App/
 1️⃣ Clone the repository
 git clone https://github.com/Varsh-raj/Task_Manager-React-App.git
 cd Task_Manager-React-App
+
 2️⃣ Install dependencies
 npm install
+
 3️⃣ Run the app
 npm run dev
 

@@ -25,6 +25,7 @@ Task_Manager-React-App/
 │── vite.config.js
 
 **⚙️ Installation & Setup**
+
 1️⃣ Clone the repository
 git clone https://github.com/Varsh-raj/Task_Manager-React-App.git
 cd Task_Manager-React-App
